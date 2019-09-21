@@ -1,0 +1,7 @@
+apiVersion: build.speak2jc.com/v1
+kind: AppBuild
+metadata:
+  name: example-appbuild
+spec:
+  # Add fields here
+  size: 3
